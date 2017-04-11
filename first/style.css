@@ -1,0 +1,27 @@
+.top_section{
+    background: #303030;
+    width: 100%;
+    height: 150px;
+}
+
+.left_section{
+    background: #999999;
+    width: 100px;
+    height: 630px;
+    float: left;
+}
+
+.right_section{
+    float: right;
+    background: #999999;
+    width: 100px;
+    height: 630px;
+    
+}
+
+.bottom_section{
+    background: black;
+    width: 100%;
+    height: 80px;
+    margin-top: 550px; 
+}
